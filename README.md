@@ -1,1 +1,1 @@
-This is a new feature branch for adding README.
+This is the initial commit for the feature/add-readme branch.
