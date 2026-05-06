@@ -1,1 +1,1 @@
-This is the README file for the docs directory.
+This is the README file for the project.
