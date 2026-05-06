@@ -10,7 +10,7 @@ This repository is used for testing automated GitHub operations.
 - Created for testing purposes
 
 Instructions:
-1. Create a new branch from main called 'feature/add-readme' if it does not exist.
+1. Create a new branch from main called "feature/add-readme" if it does not exist.
 2. Add the file at the specified path.
 3. Commit the file with the given message.
 4. Do not modify any other files.
