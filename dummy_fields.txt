@@ -1,4 +1,7 @@
-name: Hari Var
-email: hari@example.com
-role: Developer
-notes: "This file contains dummy fields for the feature branch."
+name: Dummy Feature
+owner: Hari-var
+description: Placeholder fields for testing PR
+fields:
+  - field1: dummy_value_1
+  - field2: dummy_value_2
+  - field3: dummy_value_3
