@@ -1,0 +1,16 @@
+# Intentionally failing workflow for failure-agent testing
+name: CI Fail 1
+on:
+  push:
+    branches: [ 'head' ]
+jobs:
+  fail:
+    name: fail
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Intentional fail
+        run: |
+          echo "This workflow is intended to fail for testing."
+          exit 1
